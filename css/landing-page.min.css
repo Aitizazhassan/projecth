@@ -1,0 +1,48 @@
+body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif ;text-align: justify;}
+h1,h2,h3,h4,h5,h6{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700;color: darkcyan;font-size: 21px; margin: 0;margin-bottom: 15px;}
+
+header.masthead .overlay{position:absolute;background-color:#212529;height:100%;width:100%;top:0;left:0;opacity: -0.7;}
+header.masthead h1{font-size:2rem}@media (min-width:768px){header.masthead{}
+header.masthead h1{font-size:3rem;     color: darkblue;   text-align: left;}}
+.showcase .showcase-text{padding:3rem}
+.showcase .showcase-img{min-height:30rem;background-size:cover}@media (min-width:768px){.showcase .showcase-text{padding:7rem}}
+.features-icons{padding-top:7rem;padding-bottom:7rem}
+.features-icons .features-icons-item{max-width:20rem}
+.features-icons .features-icons-item .features-icons-icon{height:7rem}
+.features-icons .features-icons-item .features-icons-icon i{font-size:4.5rem}
+.features-icons .features-icons-item:hover .features-icons-icon i{font-size:5rem}
+.testimonials{padding-top:7rem;padding-bottom:7rem}
+.testimonials .testimonial-item{max-width:18rem}
+.testimonials .testimonial-item img{max-width:12rem;box-shadow:0 5px 5px 0 #adb5bd}
+.call-to-action{position:relative;background-color:#343a40;background:url(../img/bg-masthead.jpg) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding-top:7rem;padding-bottom:7rem}
+.call-to-action .overlay{position:absolute;background-color:#212529;height:100%;width:100%;top:0;left:0;opacity:.3}footer.footer{padding-top:2rem;padding-bottom:2rem}
+.hborder{border-bottom:3px solid red;    margin-right: 670px;}
+header.masthead h3{font-size:1.4rem;     color: black;   text-align: left;padding-top:15px;}
+.text-muted{padding-left: 460px;}
+.lead{font-weight: 400;}
+
+
+.btn{color: black;    margin-top: 15px;padding: 0 23px;
+    border-radius: 11px;border: 3px solid red;
+}
+#slider{    width: 80%;}
+#footermenu{width: 460px;
+    margin-top: 70px;}
+ #footermenu a {color:black;}
+#myCarousel{    background-color: #EBF6FF;}
+.carousel-item h3{color:darkcyan;margin-left: 320px;margin-top:20px;
+}
+ #onslider{margin: 40px;margin-top:60px;}
+	 .carousel-indicators{    margin-bottom: 49px;}
+#sliderbutton{    position: relative;
+    top: -61px;}	
+.static-top{ background-color: #EEF7FF;
+}
+#mainnav {position: absolute;left: 135px;  margin: 0;}
+.static-top > a{
+	font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500
+}
+.container{width: 957px;}
+.container-fluid{ width: 40%; background-color: #EEF7FF;}
+.row{ margin-top: 30px;}
+#google-map{width:100%;    height: 150%;}
